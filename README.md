@@ -1,6 +1,6 @@
-# Frontend-projects
-contaiins frontend projects from roadmap.sh
+# Frontend Projects
+
+This repository contains my single-page HTML CV.
 
 ## Live Project URL
-https://github.com/Harshvardhan-kode/Frontend-projects
-https://github.com/Harshvardhan-kode/Frontend-projects/blob/main/single-pageHTML-CV.md
+https://harshvardhan-kode.github.io/Frontend-projects/
